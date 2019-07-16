@@ -1,0 +1,55 @@
+/* =============
+    Typography
+============= */
+body{
+    font-family: 'Open Sans', sans-serif;
+    // font-family: 'Comfortaa', cursive;
+    // font-family: 'Roboto Slab', serif;
+    // font-family: 'Pacifico', cursive;
+}
+
+p{
+  text-align: center;
+  font-size: rem-calc(16);
+  padding-top: 28px;
+  padding-bottom: 28px;
+}
+
+
+
+h2{
+  text-align: center;
+  font-size: rem-calc(35);
+  font-style: Lucida Grande;
+
+}
+
+ul{
+  text-align: center;
+}
+
+span{
+  color:#D92A2A;
+}
+
+h3{
+  font-size: rem-calc(35);
+  color: white;
+  text-align: center;
+  background-color: #D92A2A;
+  background-size: 50% auto;
+  padding-top: 36px;
+  padding-bottom: 36px;
+
+}
+
+h4{
+  font-size: rem-calc(35);
+  color: white;
+  text-align: center;
+}
+
+li{
+  padding-top: 17px;
+  padding-bottom: 17px;
+}
